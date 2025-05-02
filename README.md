@@ -1,12 +1,10 @@
-Here's the updated version with your WhatsApp link added:
-
 ---
 
 # 👋 Hi, I'm Seif Elsokary
 
 🔧 **Back-End Developer | Java & Spring Boot Enthusiast**
 
-I’m passionate about building real-world applications with clean architecture, scalable design, and secure APIs. Currently focused on enhancing my skills in Spring Boot, REST APIs, Security, and Microservices.
+I’m passionate about building real-world applications with clean architecture, scalable design, and secure APIs. Currently focused on enhancing my skills in Spring Boot, REST APIs, Security.
 
 ---
 
@@ -75,5 +73,3 @@ I’m passionate about building real-world applications with clean architecture,
 > 🚧 *I’m continuously developing my projects and skills. Stay tuned for more features and improvements!*
 
 ---
-
-This version includes your WhatsApp link for easy access. Let me know if you need any more changes!
