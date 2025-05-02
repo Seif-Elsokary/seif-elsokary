@@ -66,7 +66,7 @@ I’m passionate about building real-world applications with clean architecture,
 
 ## 🏷 Topics & Tags
 
-`#Java` `#SpringBoot` `#JWT` `#APIDevelopment` `#BackendDevelopment` `#Microservices` `#MySQL` `#JavaMail` `#Docker` `#DSA` `#RBAC` `#RESTAPI` `#Swagger` `#JUnit`
+`#Java` `#SpringBoot` `#JWT` `#APIDevelopment` `#BackendDevelopment` `#MySQL` `#JavaMail` `#Docker` `#DSA` `#RBAC` `#RESTAPI` `#Swagger` `#JUnit`
 
 ---
 
