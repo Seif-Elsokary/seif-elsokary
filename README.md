@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Seif-Elsokary/seif-elsokary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hi, I'm Seif Elsokary
 
@@ -76,4 +72,4 @@ I’m passionate about building real-world applications with clean architecture,
 
 > 🚧 *I’m continuously developing my projects and skills. Stay tuned for more features and improvements!*
 
--->
+
