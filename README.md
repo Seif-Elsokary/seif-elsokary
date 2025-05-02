@@ -1,3 +1,6 @@
+Here's the updated version with your WhatsApp link added:
+
+---
 
 # 👋 Hi, I'm Seif Elsokary
 
@@ -12,7 +15,7 @@ I’m passionate about building real-world applications with clean architecture,
 * 💻 Java, Spring Boot, Spring Security, JWT, JPA
 * 🛡️ Role-Based Access Control (RBAC), Authentication & Authorization
 * 📧 Java Mail (Email Notifications)
-* 🐬 MySQL, PostgreSQL
+* 🐬 MySQL
 * 📦 Docker (Containerization)
 * 🧪 JUnit & Mockito (Unit Testing)
 * 📘 Swagger (API Documentation)
@@ -48,8 +51,6 @@ I’m passionate about building real-world applications with clean architecture,
 ---
 
 ## 🧠 Learning & Goals
-
-* 🔄 Refactor LMS into Microservices using Spring Cloud & Eureka
 * 🌐 Expand email services & notification system
 * 📊 Add analytics and quiz reports
 
@@ -60,6 +61,7 @@ I’m passionate about building real-world applications with clean architecture,
 * 💼 [LinkedIn](https://www.linkedin.com/in/seif-elsokary-350233256/)
 * ✉️ Email: [seifelsokary2022@gmail.com](mailto:seifelsokary2022@gmail.com)
 * 📱 Phone: 01017846543
+* 📱 WhatsApp: [Click to Chat](https://wa.me/01017846543)
 * 🧠 [LeetCode](https://leetcode.com/u/seifsoliman/)
 
 ---
@@ -72,4 +74,6 @@ I’m passionate about building real-world applications with clean architecture,
 
 > 🚧 *I’m continuously developing my projects and skills. Stay tuned for more features and improvements!*
 
+---
 
+This version includes your WhatsApp link for easy access. Let me know if you need any more changes!
