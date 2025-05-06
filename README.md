@@ -72,11 +72,20 @@ I’m passionate about building real-world applications with clean architecture,
 
 ## 📫 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/seif-elsokary-350233256/)
-* ✉️ Email: [seifelsokary2022@gmail.com](mailto:seifelsokary2022@gmail.com)
-* 📱 Phone: 01017846543
-* 📱 WhatsApp: [Click to Chat](https://wa.me/01017846543)
-* 🧠 [LeetCode](https://leetcode.com/u/seifsoliman/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/seif-elsokary-350233256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Seif-Elsokary" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/01017846543" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:seifelsokary2022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
