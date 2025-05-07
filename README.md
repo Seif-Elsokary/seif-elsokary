@@ -1,11 +1,19 @@
-# Seif Elsokary - Back-End Developer
+# **Seif Elsokary - Back-End Developer** 
 
-👋 Hi, I'm Seif Elsokary
+<p align="center">
+  <strong>👋 Hi, I'm Seif Elsokary</strong>
+</p>
 
-🔧 Back-End Developer | Java & Spring Boot Enthusiast
+<p align="center">
+  <strong>🔧 Back-End Developer | Java & Spring Boot Enthusiast</strong>
+</p>
 
-Passionate about building real-world applications with clean architecture, scalable design, and secure APIs.  
-Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
+<p align="center">
+  <strong>Passionate about building real-world applications with clean architecture, scalable design, and secure APIs.  
+  Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.</strong>
+</p>
+
+---
 
 
 ## 🚀 Tech Stack
