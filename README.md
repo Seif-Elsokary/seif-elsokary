@@ -1,4 +1,4 @@
-<h1 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">Hi There I'm Seif Elsokary 👋</h1>
+<h1 align="center">Hi There I'm Seif Elsokary 👋</h1>
 
 <p align="center"><b>🔧 Back-End Developer | Java & Spring Boot Enthusiast</b></p>
 
@@ -73,14 +73,6 @@ Currently focused on enhancing my skills in Spring Boot, REST APIs, and Security
 
 ---
 
-## 📊 Progress Tracker
-
-<p align="center">
-  ![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-Elsokary&show_icons=true&theme=radical)
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -107,28 +99,3 @@ Currently focused on enhancing my skills in Spring Boot, REST APIs, and Security
 ---
 
 > 🚧 *I’m continuously developing my projects and skills. Stay tuned for more features and improvements!*
-
----
-
-<style>
-@keyframes snakeMove {
-  0% {
-    transform: translateX(0);
-  }
-  50% {
-    transform: translateX(50px) rotate(20deg);
-  }
-  100% {
-    transform: translateX(0) rotate(-20deg);
-  }
-}
-
-.snake {
-  display: inline-block;
-  animation: snakeMove 2s ease-in-out infinite;
-}
-</style>
-
-<p align="center" class="snake">
-  🐍
-</p>
