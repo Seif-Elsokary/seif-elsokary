@@ -7,7 +7,6 @@
 Passionate about building real-world applications with clean architecture, scalable design, and secure APIs.  
 Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
 
---
 
 ## 🚀 Tech Stack
 
@@ -89,8 +88,6 @@ Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 
 ---
