@@ -7,15 +7,7 @@
 Passionate about building real-world applications with clean architecture, scalable design, and secure APIs.  
 Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seif-Elsokary&show_icons=true&theme=radical" width="90%"/>
-</p>
-
----
+--
 
 ## 🚀 Tech Stack
 
@@ -99,6 +91,17 @@ Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
 </p>
 
 ---
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seif-Elsokary&show_icons=true&theme=radical" width="90%"/>
+</p>
+
+--
 
 ## 🏷 Topics & Tags
 
