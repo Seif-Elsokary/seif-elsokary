@@ -1,4 +1,7 @@
-# **Seif Elsokary - Back-End Developer** 
+<p align="center">
+  <strong>Seif Elsokary - Back-End Developer</strong>
+</p>
+
 
 <p align="center">
   <strong>👋 Hi, I'm Seif Elsokary</strong>
