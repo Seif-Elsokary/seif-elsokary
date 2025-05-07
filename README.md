@@ -1,12 +1,15 @@
-# 👋 Hi, I'm Seif Elsokary
+<h1 align="center">Hi There I'm Seif Elsokary 👋</h1>
 
-🔧 **Back-End Developer | Java & Spring Boot Enthusiast**
+<p align="center"><b>🔧 Back-End Developer | Java & Spring Boot Enthusiast</b></p>
 
-I’m passionate about building real-world applications with clean architecture, scalable design, and secure APIs. Currently focused on enhancing my skills in Spring Boot, REST APIs, Security.
+<p align="center">
+I’m passionate about building real-world applications with clean architecture, scalable design, and secure APIs.<br>
+Currently focused on enhancing my skills in Spring Boot, REST APIs, and Security.
+</p>
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -34,39 +37,39 @@ I’m passionate about building real-world applications with clean architecture,
 
 ### 🎓 [LMS - Learning Management System](https://github.com/Seif-Elsokary/LMS)
 
-* Students & Instructors Management  
-* Course Enrollment System  
-* Email Notifications (Welcome Email & Instructor Alerts)  
-* JWT-based Authentication & Authorization  
-* API Testing + Swagger UI Docs  
-* In Progress: Quiz System per Course + Result Notification  
+- 👥 Students & Instructors Management  
+- 📘 Course Enrollment System  
+- 📧 Email Notifications (Welcome Email & Instructor Alerts)  
+- 🔐 JWT-based Authentication & Authorization  
+- 🧪 API Testing + Swagger UI Docs  
+- 🛠️ In Progress: Quiz System per Course + Result Notification  
 
 ---
 
 ### 👤 [User Management System](https://github.com/Seif-Elsokary/user_managment_System)
 
-* Role-based User CRUD operations  
-* Spring Security & JWT integration  
-* Exception Handling & Global Error Responses  
+- 👮 Role-based User CRUD operations  
+- 🔐 Spring Security & JWT integration  
+- 🛠️ Exception Handling & Global Error Responses  
 
 ---
 
 ### 🛒 [E-commerce App](https://github.com/Seif-Elsokary/ecommerce_app)
 
-* Products, Carts, Orders Management  
-* Authentication with JWT  
-* JPA Entities, Repositories, and Services Layer  
-* Testing Layer & Swagger Docs  
-* Future Enhancements: Microservices + AI Recommendations  
+- 🛍️ Products, Carts, Orders Management  
+- 🔐 Authentication with JWT  
+- 🧱 JPA Entities, Repositories, and Services Layer  
+- 📘 Testing Layer & Swagger Docs  
+- 💡 Future Enhancements: Microservices + AI Recommendations  
 
 ---
 
-## 🧠 Learning & Goals
+## 🎯 Learning & Goals
 
-* 🌐 Expand email services & notification system  
-* 📊 Add analytics and quiz reports  
-* 🧱 Implement Clean Architecture Patterns  
-* 🧠 Deepen Spring Security expertise  
+- 🌐 Expand email services & notification system  
+- 📊 Add analytics and quiz reports  
+- 🧱 Implement Clean Architecture Patterns  
+- 🔐 Deepen Spring Security expertise  
 
 ---
 
