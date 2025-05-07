@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Seif Elsokary
+# Seif Elsokary - Back-End Developer
 
-**🔧 Back-End Developer | Java & Spring Boot Enthusiast**
+👋 Hi, I'm Seif Elsokary
+
+🔧 Back-End Developer | Java & Spring Boot Enthusiast
 
 Passionate about building real-world applications with clean architecture, scalable design, and secure APIs.  
 Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
@@ -105,7 +107,51 @@ Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
 
 ---
 
-## 🐍 GitHub Snake Game
+> 🚧 *I’m continuously developing my projects and skills. Stay tuned for more features and improvements!*
 
+---
 
-![GitHub Snake](dist/github-snake.svg)
+## GitHub Snake Generation Workflow
+
+This repository includes an automated GitHub Snake generation action using GitHub Actions. The snake is generated based on your contributions across different repositories.
+
+### Workflow Details:
+
+- **Triggered On**: A push to the `main` branch.
+- **Action Used**: [Platane/snk@v3](https://github.com/Platane/snk).
+- **Output Files**: 
+  - `dist/github-snake.svg` - Default snake image.
+  - `dist/github-snake-dark.svg?palette=github-dark` - Dark-themed snake image.
+  - `dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9` - Animated ocean-themed snake.
+
+### GitHub Actions Workflow Example:
+
+```yaml
+name: Generate GitHub Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Snake Image
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload GitHub Snake Image
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-snake-images
+          path: dist/*
