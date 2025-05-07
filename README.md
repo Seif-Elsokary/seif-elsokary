@@ -1,10 +1,19 @@
-<h1 align="center">Hi There I'm Seif Elsokary 👋</h1>
+<h1 align="center">👋 Hi, I'm Seif Elsokary</h1>
 
 <p align="center"><b>🔧 Back-End Developer | Java & Spring Boot Enthusiast</b></p>
 
 <p align="center">
-I’m passionate about building real-world applications with clean architecture, scalable design, and secure APIs.<br>
-Currently focused on enhancing my skills in Spring Boot, REST APIs, and Security.
+Passionate about building real-world applications with clean architecture, scalable design, and secure APIs.<br>
+Currently focused on enhancing skills in Spring Boot, REST APIs, and Security.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seif-Elsokary&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Elsokary&layout=compact&theme=radical&langs_count=10" width="49%"/>
 </p>
 
 ---
@@ -12,23 +21,23 @@ Currently focused on enhancing my skills in Spring Boot, REST APIs, and Security
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Integration-FF6347?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-1E90FF?style=for-the-badge&logo=algorithm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-2E8B57?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSP_Servlet-006A57?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_GitHub-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-FF1493?style=for-the-badge&logo=solving&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaMail-007396?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=flat-square&logo=testinglibrary&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/API_Integration-FF6347?style=flat-square&logo=api&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-1E90FF?style=flat-square&logo=algorithm&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-2E8B57?style=flat-square&logo=api&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JSP_Servlet-006A57?style=flat-square&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Git_GitHub-181717?style=flat-square&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FF1493?style=flat-square&logo=solving&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/JavaMail-007396?style=flat-square&logo=gmail&logoColor=white" height="30"/>
 </p>
 
 ---
