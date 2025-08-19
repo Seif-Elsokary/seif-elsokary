@@ -104,23 +104,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seif-Elsokary&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Elsokary&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif-Elsokary&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Seif-Elsokary/Seif-Elsokary/output/github-contribution-grid-snake.svg" alt="snake game" width="100%"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
