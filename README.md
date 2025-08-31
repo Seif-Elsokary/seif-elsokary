@@ -1,17 +1,17 @@
 <p align="center">
-  <strong>Seif Elsokary - Back-End Developer</strong>
+  <strong style="font-size:28px;">Seif Elsokary - Back-End Developer</strong>
 </p>
 
 <p align="center">
-  <strong>👋 Hi, I'm Seif Elsokary</strong>
+  <strong style="font-size:22px;">👋 Hi, I'm Seif Elsokary</strong>
 </p>
 
 <p align="center">
-  <strong>🔧 Back-End Developer | Java & Spring Boot Specialist | Microservices Architect</strong>
+  <strong style="font-size:18px;">🔧 Back-End Developer | Java & Spring Boot Specialist | Microservices Architect</strong>
 </p>
 
 <p align="center">
-  Passionate about building scalable, real-world applications with clean architecture and secure APIs. <br>
+  Passionate about building scalable, real-world applications with clean architecture and secure APIs.<br>
   Expert in microservices architecture, cloud-native development, and distributed systems.
 </p>
 
@@ -21,48 +21,48 @@
 
 ### 🏗️ Core Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="50"/>
 </p>
 
 ### 🗄️ Databases & ORM
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
 </p>
 
 ### 🐳 DevOps & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git_GitHub-181717?style=for-the-badge&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Git_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50"/>
 </p>
 
 ### 📡 API & Microservices
 <p align="center">
-  <img src="https://img.shields.io/badge/RESTful_APIs-2E8B57?style=for-the-badge&logo=api&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Eureka_Server-6DB33F?style=for-the-badge&logo=netflix&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Config_Server-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-2E8B57?style=for-the-badge&logo=api&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Eureka_Server-6DB33F?style=for-the-badge&logo=netflix&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Config_Server-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
 </p>
 
-### � Testing
+### 🧪 Testing
 <p align="center">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" height="50"/>
 </p>
 
 ### ⚡ Other Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Data_Structures-1E90FF?style=for-the-badge&logo=algorithm&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Algorithms-FF1493?style=for-the-badge&logo=solving&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/JavaMail-007396?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Data_Structures-1E90FF?style=for-the-badge&logo=algorithm&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF1493?style=for-the-badge&logo=solving&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/JavaMail-007396?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </p>
 
 ---
@@ -71,33 +71,33 @@
 
 ### 🏥 [Hospital Management System - Microservices](https://github.com/Seif-Elsokary/Hospital-Management-System)
 **Advanced microservices architecture with Spring Cloud**
-- 🏗️ **Microservices Architecture**: Eureka, Config Server, API Gateway
-- 🗄️ **Multiple Databases**: Separate MySQL instances for each service
-- 🔐 **Spring Security**: Secure API endpoints
-- 📊 **Service Discovery**: Automatic service registration
-- 🐳 **Dockerized**: Complete Docker Compose setup
-- 📚 **Swagger Documentation**: Comprehensive API docs
+- 🏗️ **Microservices Architecture**: Eureka, Config Server, API Gateway  
+- 🗄️ **Multiple Databases**: Separate MySQL instances for each service  
+- 🔐 **Spring Security**: Secure API endpoints  
+- 📊 **Service Discovery**: Automatic service registration  
+- 🐳 **Dockerized**: Complete Docker Compose setup  
+- 📚 **Swagger Documentation**: Comprehensive API docs  
 
 ### 🎓 [LMS - Learning Management System](https://github.com/Seif-Elsokary/LMS)
 - 👥 Students & Instructors Management  
 - 📘 Course Enrollment System  
-- 📧 Email Notifications (JavaMail Integration)
+- 📧 Email Notifications (JavaMail Integration)  
 - 🔐 JWT Authentication & Authorization  
-- 🧪 Comprehensive API Testing
-- 📚 Swagger UI Documentation
+- 🧪 Comprehensive API Testing  
+- 📚 Swagger UI Documentation  
 
 ### 👤 [User Management System](https://github.com/Seif-Elsokary/user_managment_System)
-- 👮 Role-based Access Control (RBAC)
-- 🔐 Spring Security + JWT Integration
-- 🛠️ Global Exception Handling
-- 📋 Custom Error Response System
+- 👮 Role-based Access Control (RBAC)  
+- 🔐 Spring Security + JWT Integration  
+- 🛠️ Global Exception Handling  
+- 📋 Custom Error Response System  
 
 ### 🛒 [E-commerce Application](https://github.com/Seif-Elsokary/ecommerce_app)
-- 🛍️ Complete Product Management
-- 🛒 Shopping Cart Functionality
-- 📦 Order Processing System
-- 🔐 Secure Authentication
-- 🧱 Layered Architecture
+- 🛍️ Complete Product Management  
+- 🛒 Shopping Cart Functionality  
+- 📦 Order Processing System  
+- 🔐 Secure Authentication  
+- 🧱 Layered Architecture  
 
 ---
 
@@ -109,24 +109,23 @@
 
 ---
 
-
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seif-elsokary-350233256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=35" height="50"/>
   </a>
   <a href="https://github.com/Seif-Elsokary" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" height="45"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=35" height="50"/>
   </a>
   <a href="https://wa.me/01017846543" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" height="45"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=35" height="50"/>
   </a>
   <a href="mailto:seifsoliman809@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" height="45"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=35" height="50"/>
   </a>
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30" height="45"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=35" height="50"/>
   </a>
 </p>
 
