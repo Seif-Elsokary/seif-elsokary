@@ -1,13 +1,11 @@
+<h1 align="center">Hey 👋 What's Up?</h1>
+
 <p align="center">
-  <strong style="font-size:28px;">Seif Elsokary - Back-End Developer</strong>
+  <strong>Seif Elsokary - Back-End Developer</strong>
 </p>
 
 <p align="center">
-  <strong style="font-size:22px;">👋 Hi, I'm Seif Elsokary</strong>
-</p>
-
-<p align="center">
-  <strong style="font-size:18px;">🔧 Back-End Developer | Java & Spring Boot Specialist | Microservices Architect</strong>
+  🔧 Back-End Developer | Java & Spring Boot Specialist | Microservices Architect
 </p>
 
 <p align="center">
@@ -19,126 +17,85 @@
 
 ## 🚀 Tech Stack
 
-### 🏗️ Core Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="50"/>
-</p>
-
-### 🗄️ Databases & ORM
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
-</p>
-
-### 🐳 DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Git_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50"/>
-</p>
-
-### 📡 API & Microservices
-<p align="center">
-  <img src="https://img.shields.io/badge/RESTful_APIs-2E8B57?style=for-the-badge&logo=api&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Eureka_Server-6DB33F?style=for-the-badge&logo=netflix&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Config_Server-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="50"/>
-</p>
-
-### 🧪 Testing
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" height="50"/>
-</p>
-
-### ⚡ Other Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Data_Structures-1E90FF?style=for-the-badge&logo=algorithm&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Algorithms-FF1493?style=for-the-badge&logo=solving&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/JavaMail-007396?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=springboot" height="60" alt="spring boot logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=junit" height="60" alt="junit logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+</div>
 
 ---
 
 ## 📚 Featured Projects
 
 ### 🏥 [Hospital Management System - Microservices](https://github.com/Seif-Elsokary/Hospital-Management-System)
-**Advanced microservices architecture with Spring Cloud**
-- 🏗️ **Microservices Architecture**: Eureka, Config Server, API Gateway  
-- 🗄️ **Multiple Databases**: Separate MySQL instances for each service  
-- 🔐 **Spring Security**: Secure API endpoints  
-- 📊 **Service Discovery**: Automatic service registration  
-- 🐳 **Dockerized**: Complete Docker Compose setup  
-- 📚 **Swagger Documentation**: Comprehensive API docs  
+- 🏗️ Microservices Architecture: Eureka, Config Server, API Gateway  
+- 🗄️ Multiple Databases: Separate MySQL instances for each service  
+- 🔐 Spring Security: Secure API endpoints  
+- 📊 Service Discovery & Swagger Documentation  
+- 🐳 Dockerized: Complete Docker Compose setup  
 
 ### 🎓 [LMS - Learning Management System](https://github.com/Seif-Elsokary/LMS)
 - 👥 Students & Instructors Management  
 - 📘 Course Enrollment System  
 - 📧 Email Notifications (JavaMail Integration)  
 - 🔐 JWT Authentication & Authorization  
-- 🧪 Comprehensive API Testing  
-- 📚 Swagger UI Documentation  
+- 🧪 API Testing & Swagger UI Documentation  
 
 ### 👤 [User Management System](https://github.com/Seif-Elsokary/user_managment_System)
 - 👮 Role-based Access Control (RBAC)  
 - 🔐 Spring Security + JWT Integration  
-- 🛠️ Global Exception Handling  
-- 📋 Custom Error Response System  
+- 🛠️ Global Exception Handling & Custom Error Response  
 
 ### 🛒 [E-commerce Application](https://github.com/Seif-Elsokary/ecommerce_app)
 - 🛍️ Complete Product Management  
-- 🛒 Shopping Cart Functionality  
-- 📦 Order Processing System  
-- 🔐 Secure Authentication  
-- 🧱 Layered Architecture  
+- 🛒 Shopping Cart & Order Processing  
+- 🔐 Secure Authentication & Layered Architecture  
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif-Elsokary&theme=radical&hide_border=true" width="60%"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seif-elsokary-350233256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=35" height="50"/>
+<div align="center">
+  <a href="https://lnkd.in/d8aSy-8Q" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="https://github.com/Seif-Elsokary" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=35" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
   <a href="https://wa.me/01017846543" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=35" height="50"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
   </a>
   <a href="mailto:seifsoliman809@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=35" height="50"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=35" height="50"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🏷️ Technologies & Expertise
+## 📊 GitHub Stats & Activity
 
-`#Java` `#SpringBoot` `#Microservices` `#SpringCloud` `#Docker` `#MySQL` `#JWT` `#SpringSecurity` `#RESTAPI` `#Swagger` `#Eureka` `#APIGateway` `#ConfigServer` `#JPA` `#Hibernate` `#JUnit` `#Mockito` `#SystemDesign` `#DistributedSystems` `#Python` `#Algorithms` `#DataStructures`
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Seif-Elsokary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Seif-Elsokary&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
+</div>
 
----
-
-> 🚀 *Passionate about building scalable systems and continuously learning new technologies. Open to collaboration and new opportunities!*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seif-Elsokary&style=flat-square&color=blueviolet" alt="Profile views"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seif-Elsokary/Seif-Elsokary/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seif-Elsokary/Seif-Elsokary/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seif-Elsokary/Seif-Elsokary/output/pacman-contribution-graph.svg">
+</picture>
