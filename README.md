@@ -18,21 +18,41 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=springboot" height="60" alt="spring boot logo" />
+  <img src="https://skillicons.dev/icons?i=springboot" height="60" alt="spring boot logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring cloud logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo" />
+  <img src="https://skillicons.dev/icons?i=springsecurity" height="60" alt="spring security logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=junit" height="60" alt="junit logo" />
+  <img src="https://skillicons.dev/icons?i=jpa" height="60" alt="jpa logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=junit" height="60" alt="junit logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mockito" height="60" alt="mockito logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=jwt" height="60" alt="jwt logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=swagger" height="60" alt="swagger logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=eureka" height="60" alt="eureka logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=apigateway" height="60" alt="api gateway logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=configserver" height="60" alt="config server logo"/>
 </div>
 
 ---
@@ -90,8 +110,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Seif-Elsokary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Seif-Elsokary&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Seif-Elsokary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Seif-Elsokary&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
 </div>
 
 <picture>
