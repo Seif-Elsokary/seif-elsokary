@@ -113,7 +113,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seif-elsokary-350233256/" target="_blank">
+  <a href="https://www.linkedin.com/in/seifsolimanmohamed2003/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="45"/>
   </a>
   <a href="https://github.com/Seif-Elsokary" target="_blank">
